@@ -63,7 +63,7 @@ True and False and True
 1 or 0 or 0
 ```
 
-Q20. What are conditional statements in Python?
+Q20. What are conditional statements in Python???
 
 Q21. What is use of 'if', 'elif' and 'else' keywords?
 
